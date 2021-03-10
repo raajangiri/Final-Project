@@ -1,3 +1,4 @@
 # Final-Project
 
-## PyQt GUI based project.
+## PyQt GUI based project. CYBEX.
+
